@@ -7,10 +7,10 @@ This project aims to detect malware using a combination of machine learning and 
 
 ## Notebooks
 
-1. **[Disp.ipynb](Disp.ipynb):**
+1. **[Disp_Attack.ipynb](Disp_Attack.ipynb):**
    - Implements adversarial training techniques for malware detection, specifically using the Disp Attack.
 
-2. **[Kreuk.ipynb](Kreuk.ipynb):**
+2. **[Kreuk_Attack.ipynb](Kreuk_Attack.ipynb):**
    - Demonstrates the use of the Fast Gradient Sign Method (FGSM) for generating adversarial examples and evaluates the model's performance.
 
 3. **[Malconv.ipynb](Malconv.ipynb):**
