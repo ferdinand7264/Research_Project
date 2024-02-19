@@ -56,4 +56,4 @@ This project aims to detect malware using a combination of machine learning and 
 For any questions or concerns, feel free to reach out to the project owner:
 
 - Email: pratiktale85@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pratik-tale-854946240/)
+- LinkedIn: [Click here](https://www.linkedin.com/in/pratik-tale-854946240/)
